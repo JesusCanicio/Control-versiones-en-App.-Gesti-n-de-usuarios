@@ -1,7 +1,8 @@
 body {
-    font-family: 'Arial', sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     margin: 0;
     padding: 0;
+    color: #3f94b6;
     line-height: 1.6;
     background-image:url(../img/fondo-usuarios.jpg);
   }
