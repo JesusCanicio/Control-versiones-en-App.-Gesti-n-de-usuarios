@@ -1,7 +1,7 @@
 // --- frontend/app.js ---
 
 //const API_URL =  'http://localhost:3000/users';
-const API_URL = 'http://192.168.100.131:3000/users'; //Indicar IP del servidor
+const API_URL = 'http://192.168.100.131:4000/users'; //Indicar IP del servidor
 const userForm = document.getElementById('userForm');
 const userList = document.getElementById('userList');
 
